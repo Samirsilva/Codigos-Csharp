@@ -4,20 +4,20 @@
 
 # Unity Games 2D
 
--- Todas_movimentacoes_2D
+* Todas_movimentacoes_2D
 
--- Spawn_Objetos
+* Spawn_Objetos
 
--- Mover_objetos_aleatorio-Move_Towards_2.0
+* Mover_objetos_aleatorio-Move_Towards_2.0
 
--- Interacao_entre_scripts
+* Interacao_entre_scripts
 
--- Interacao_entre_objetos
+* Interacao_entre_objetos
 
--- Funcoes_de_colisao_e_trigger
+* Funcoes_de_colisao_e_trigger
 
--- Destruir_objetos
+* Destruir_objetos
 
--- Armadilhas
+* Armadilhas
 
--- Adicionar_tiro_personagem
+* Adicionar_tiro_personagem
